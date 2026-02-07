@@ -6,6 +6,10 @@ TVBOX直播源
 
 takagen99 [维护封装的版本在此下载](https://github.com/j4Uq/TVBoxOSC/releases)
 
+关于各种源维护的比较全的是ngo5 狸花 [链接在此](https://github.com/ngo5/IPTV)
+
+如果实在苦于各种源的切换，可以考虑基于web浏览器壳子的U桃，[链接](https://www.utao.tv/)
+
 智能电视优先使用arm64embi版本
 各种盒子优先使用arm64 java版本
 
