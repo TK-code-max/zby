@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://e.erw.cc/e.xml, https://epg.136605.xyz/3days.xml" x-tvg-url="http://e.erw.cc/e.xml, https://epg.136605.xyz/3days.xml"
 #EXTINF:-1 ,CCTV-1高清
 udp://239.125.2.66:4120
 #EXTINF:-1 ,CCTV-2高清
@@ -323,3 +323,4 @@ udp://239.125.1.50:5000
 udp://239.125.1.134:4130
 #EXTINF:-1 ,爱上4K
 udp://239.125.1.24:5000
+
