@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://e.erw.cc/e.xml, https://epg.136605.xyz/3days.xml" x-tvg-url="http://e.erw.cc/e.xml, https://epg.136605.xyz/3days.xml"
 #EXTINF:-1 ,CCTV1
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225920/1.m3u8?fmt=ts2hls
 #EXTINF:-1 ,CCTV2
@@ -397,3 +397,4 @@ http://111.56.121.176/050000001888/5000000188800000186/1.m3u8
 http://111.56.121.176/050000001888/5000000188800000189/1.m3u8
 #EXTINF:-1 ,动作电影
 http://111.56.121.176/050000001888/5000000188800000190/1.m3u8
+
