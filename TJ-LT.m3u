@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U url-tvg="http://e.erw.cc/e.xml, https://epg.136605.xyz/3days.xml" x-tvg-url="http://e.erw.cc/e.xml, https://epg.136605.xyz/3days.xml"
 #EXTINF:-1 ,CCTV-1综合
 rtp://225.1.1.120:5002
 #EXTINF:-1 ,CCTV-2财经
@@ -297,3 +297,4 @@ rtp://225.1.1.178:5002,广播
 rtp://225.1.1.179:5002,广播
 #EXTINF:-1 ,天津农村广播
 rtp://225.1.1.180:5002,广播
+
